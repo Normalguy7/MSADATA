@@ -1,0 +1,14 @@
+C:\Users\Jay\source\repos\schooldata\bin\Debug\netcoreapp2.2\schooldata.deps.json
+C:\Users\Jay\source\repos\schooldata\bin\Debug\netcoreapp2.2\schooldata.runtimeconfig.json
+C:\Users\Jay\source\repos\schooldata\bin\Debug\netcoreapp2.2\schooldata.runtimeconfig.dev.json
+C:\Users\Jay\source\repos\schooldata\bin\Debug\netcoreapp2.2\schooldata.dll
+C:\Users\Jay\source\repos\schooldata\obj\Debug\netcoreapp2.2\schooldata.csprojAssemblyReference.cache
+C:\Users\Jay\source\repos\schooldata\obj\Debug\netcoreapp2.2\schooldata.csproj.CoreCompileInputs.cache
+C:\Users\Jay\source\repos\schooldata\obj\Debug\netcoreapp2.2\schooldata.RazorAssemblyInfo.cache
+C:\Users\Jay\source\repos\schooldata\obj\Debug\netcoreapp2.2\schooldata.RazorAssemblyInfo.cs
+C:\Users\Jay\source\repos\schooldata\obj\Debug\netcoreapp2.2\schooldata.AssemblyInfoInputs.cache
+C:\Users\Jay\source\repos\schooldata\obj\Debug\netcoreapp2.2\schooldata.AssemblyInfo.cs
+C:\Users\Jay\source\repos\schooldata\obj\Debug\netcoreapp2.2\schooldata.RazorTargetAssemblyInfo.cache
+C:\Users\Jay\source\repos\schooldata\bin\Debug\netcoreapp2.2\schooldata.pdb
+C:\Users\Jay\source\repos\schooldata\obj\Debug\netcoreapp2.2\schooldata.dll
+C:\Users\Jay\source\repos\schooldata\obj\Debug\netcoreapp2.2\schooldata.pdb
